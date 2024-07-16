@@ -2,3 +2,6 @@ this is a new feature called Feature 2
 
 *Very cool feature
 *new addition feature
+
+**This is wrong commit
+**need to be delete 
